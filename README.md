@@ -4,8 +4,6 @@
 
 You can view the live website here: [Mike's Gym](https://r1ckshot.github.io/MikesGymWeb/)
 
-## 📸 Screenshots
-
 <table>
   <td><img src="https://github.com/user-attachments/assets/18268095-8091-45ac-94c8-f974f4bb48d7"</td>
 </table>
